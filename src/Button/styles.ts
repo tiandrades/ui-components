@@ -32,6 +32,14 @@ export const Container = styled.button<ButtonProps>`
   ${space}
   ${typography}
 
+  &:hover {
+    opacity: 0.8;
+  }
+
+  &:disabled {
+    opacity: 0.6;
+  }
+
   padding: 4px 16px;
 
   height: 36px;
