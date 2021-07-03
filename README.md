@@ -1,5 +1,7 @@
+# PROJECT WAS DISCONTINUED
+
 # ui-components
-> A simple component library for React applications. (under development)
+> A simple component library for React applications.
 
 ## ✨ Technologies
 - [ReactJS]
